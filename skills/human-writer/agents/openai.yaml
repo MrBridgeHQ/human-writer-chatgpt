@@ -1,0 +1,7 @@
+interface:
+  display_name: "Human Writer"
+  short_description: "Human-sounding prose filter"
+  default_prompt: "Use $human-writer to write, clean, or audit this prose so it reads human-authored."
+
+policy:
+  allow_implicit_invocation: true
